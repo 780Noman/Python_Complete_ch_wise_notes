@@ -1,0 +1,9 @@
+,animal,age,priority
+a,cat,3.5,yes
+b,snake,6.0,no
+c,dog,0.2,yes
+d,cat,,yes
+e,elephant,8.0,no
+f,cow,5.6,yes
+i,tiger,,no
+j,fox,5.0,no
